@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/TestProject.Pizza/TestProject.Pizza.csproj": {}
+  },
+  "projects": {
+    "/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/book/book.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/book/book.csproj",
+        "projectName": "book",
+        "projectPath": "/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/book/book.csproj",
+        "packagesPath": "/Users/henri/.nuget/packages/",
+        "outputPath": "/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/book/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/henri/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.11.3, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.3, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.11.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/henri/.dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/TestProject.Pizza/TestProject.Pizza.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/TestProject.Pizza/TestProject.Pizza.csproj",
+        "projectName": "TestProject.Pizza",
+        "projectPath": "/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/TestProject.Pizza/TestProject.Pizza.csproj",
+        "packagesPath": "/Users/henri/.nuget/packages/",
+        "outputPath": "/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/TestProject.Pizza/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/henri/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/book/book.csproj": {
+                "projectPath": "/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/book/book.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/henri/.dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

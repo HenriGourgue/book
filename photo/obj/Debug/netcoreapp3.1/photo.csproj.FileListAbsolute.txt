@@ -1,0 +1,24 @@
+/Users/pascal.m/Library/Mobile Documents/com~apple~CloudDocs/Workspace/courses/csharpadvanced/photo/bin/Debug/netcoreapp3.1/Delegates.deps.json
+/Users/pascal.m/Library/Mobile Documents/com~apple~CloudDocs/Workspace/courses/csharpadvanced/photo/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.json
+/Users/pascal.m/Library/Mobile Documents/com~apple~CloudDocs/Workspace/courses/csharpadvanced/photo/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.dev.json
+/Users/pascal.m/Library/Mobile Documents/com~apple~CloudDocs/Workspace/courses/csharpadvanced/photo/bin/Debug/netcoreapp3.1/Delegates.dll
+/Users/pascal.m/Library/Mobile Documents/com~apple~CloudDocs/Workspace/courses/csharpadvanced/photo/bin/Debug/netcoreapp3.1/Delegates.pdb
+/Users/pascal.m/Library/Mobile Documents/com~apple~CloudDocs/Workspace/courses/csharpadvanced/photo/obj/Debug/netcoreapp3.1/photo.csprojAssemblyReference.cache
+/Users/pascal.m/Library/Mobile Documents/com~apple~CloudDocs/Workspace/courses/csharpadvanced/photo/obj/Debug/netcoreapp3.1/photo.AssemblyInfoInputs.cache
+/Users/pascal.m/Library/Mobile Documents/com~apple~CloudDocs/Workspace/courses/csharpadvanced/photo/obj/Debug/netcoreapp3.1/photo.AssemblyInfo.cs
+/Users/pascal.m/Library/Mobile Documents/com~apple~CloudDocs/Workspace/courses/csharpadvanced/photo/obj/Debug/netcoreapp3.1/photo.csproj.CoreCompileInputs.cache
+/Users/pascal.m/Library/Mobile Documents/com~apple~CloudDocs/Workspace/courses/csharpadvanced/photo/obj/Debug/netcoreapp3.1/Delegates.dll
+/Users/pascal.m/Library/Mobile Documents/com~apple~CloudDocs/Workspace/courses/csharpadvanced/photo/obj/Debug/netcoreapp3.1/Delegates.pdb
+/Users/pascal.m/Library/Mobile Documents/com~apple~CloudDocs/Workspace/courses/csharpadvanced/photo/obj/Debug/netcoreapp3.1/photo.genruntimeconfig.cache
+/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/photo/bin/Debug/netcoreapp3.1/Delegates.deps.json
+/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/photo/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.json
+/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/photo/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.dev.json
+/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/photo/bin/Debug/netcoreapp3.1/Delegates.dll
+/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/photo/bin/Debug/netcoreapp3.1/Delegates.pdb
+/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/photo/obj/Debug/netcoreapp3.1/photo.csprojAssemblyReference.cache
+/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/photo/obj/Debug/netcoreapp3.1/photo.AssemblyInfoInputs.cache
+/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/photo/obj/Debug/netcoreapp3.1/photo.AssemblyInfo.cs
+/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/photo/obj/Debug/netcoreapp3.1/photo.csproj.CoreCompileInputs.cache
+/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/photo/obj/Debug/netcoreapp3.1/Delegates.dll
+/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/photo/obj/Debug/netcoreapp3.1/Delegates.pdb
+/Users/henri/Documents/Ynov/C#/exos/advancedcsharp/photo/obj/Debug/netcoreapp3.1/photo.genruntimeconfig.cache

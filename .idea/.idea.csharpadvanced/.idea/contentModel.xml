@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/mongodb.driver.core/2.11.3/contentFiles/any/netstandard2.0/Core" t="Include">
+      <e p="Compression" t="Include">
+        <e p="Snappy" t="Include">
+          <e p="lib" t="Include">
+            <e p="win" t="Include">
+              <e p="snappy32.dll" t="Include" />
+              <e p="snappy64.dll" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Zstandard" t="Include">
+          <e p="lib" t="Include">
+            <e p="win" t="Include">
+              <e p="libzstd.dll" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+    </e>
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="book" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="book.csproj" t="IncludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="BookController.cs" t="Include" />
+          <e p="ShelveController.cs" t="Include" />
+        </e>
+        <e p="Custom" t="Include">
+          <e p="CacheManager.cs" t="Include" />
+          <e p="ExceptionFilter.cs" t="Include" />
+        </e>
+        <e p="Domain" t="Include">
+          <e p="AccessInfo.cs" t="Include" />
+          <e p="BookResult.cs" t="Include" />
+          <e p="Epub.cs" t="Include" />
+          <e p="ImageLinks.cs" t="Include" />
+          <e p="IndustryIdentifier.cs" t="Include" />
+          <e p="Item.cs" t="Include" />
+          <e p="PanelizationSummary.cs" t="Include" />
+          <e p="Pdf.cs" t="Include" />
+          <e p="ReadingModes.cs" t="Include" />
+          <e p="Root.cs" t="Include" />
+          <e p="SaleInfo.cs" t="Include" />
+          <e p="SearchInfo.cs" t="Include" />
+          <e p="VolumeInfo.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="book.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Service" t="Include">
+          <e p="BookService.cs" t="Include" />
+          <e p="dto" t="Include">
+            <e p="BasketDto.cs" t="Include" />
+            <e p="BookDto.cs" t="Include" />
+            <e p="PizzaDto.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="csharpadvanced.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_csharpadvanced.-1918810917.00" t="ExcludeRecursive" />
+  </component>
+</project>
